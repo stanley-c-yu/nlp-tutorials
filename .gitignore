@@ -1,0 +1,7 @@
+**/.DS_Store
+**/csr/.DS_Store
+**/nlp-basics/.DS_Store
+**/topic-modeling/.DS_Store
+nlp-basics/.ipynb_checkpoints/
+topic-modeling/.ipynb_checkpoints/
+csr/__pycache__/
